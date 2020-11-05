@@ -1,0 +1,7 @@
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\bin\Debug\YeniKonsolProjesi.exe.config
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\bin\Debug\YeniKonsolProjesi.exe
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\bin\Debug\YeniKonsolProjesi.pdb
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\obj\Debug\YeniKonsolProjesi.csprojAssemblyReference.cache
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\obj\Debug\YeniKonsolProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\obj\Debug\YeniKonsolProjesi.exe
+C:\Users\Redma\Desktop\Yeni proje\YeniKonsolProjesi\YeniKonsolProjesi\obj\Debug\YeniKonsolProjesi.pdb
